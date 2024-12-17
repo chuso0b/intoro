@@ -1,0 +1,49 @@
+@import url(sanitize.css);
+.content {
+    text-align: center;
+    background-color: rgb(248, 246, 236);
+    width: 600px;
+    margin: 10px auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .4); /*影*/
+    border: 8px solid rgb(181, 192, 79);
+    padding: 20px;
+}
+
+body {
+    background-color: #ffffff; 
+}
+h1 {
+    margin: 0;
+    color: lightskyblue;
+}
+h2 {
+    margin: 0;
+    color: mediumseagreen;
+}
+h3 {
+    margin: 0;
+    color: rgb(219, 168, 56);
+}
+h4 {
+    margin: 0;
+    color: rgb(226, 223, 24);
+}/*意味ないけど作っといた*/
+
+p {
+    font-size: 16Px;
+}
+
+header {
+    margin-top: 3px; /*上に余白*/
+    color: #2E99A9; 
+}
+hr {
+    border-width: 2px; 
+    border-color: #3a3a3a; 
+    margin: 15px 0;
+}
+ul {
+    list-style-type: disc;
+    padding-inline-start: 4;
+}   
+    
